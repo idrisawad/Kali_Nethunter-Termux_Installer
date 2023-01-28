@@ -1,0 +1,1 @@
+cd .. && cd usr/etc && echo "nethunter" >> bash.bashrc && echo "Welcome to NetHunter! - To start GUI over VNC Session run: kex start" > motd && exit
