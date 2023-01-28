@@ -34,7 +34,7 @@ Note: The button “install” may not change to “installed” in the store cl
 
 Run these scripts:
 
- 1. ```./prepare``` - This command makes the Install files executable
+ 1. ```bash prepare.sh``` - This command makes the Install files executable
 
  2. ```./pre-install``` - This will install, termux-storage, wget, and downloads Kali NetHunter Rootless Edition from https://www.kali.org/
 
