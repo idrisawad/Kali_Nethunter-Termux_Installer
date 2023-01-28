@@ -36,11 +36,11 @@ Run these scripts:
 
  1. ```bash prepare.sh``` - This command makes the Install files executable
 
- 2. ```./pre-install``` - This will install, termux-storage, wget, and downloads Kali NetHunter Rootless Edition from https://www.kali.org/
+ 2. ```./pre-install``` - This will install updates for Termux, Termux-Storage, wget, and Kali NetHunter Rootless Edition files from https://www.kali.org/
 
- 3. ```./install``` - This will install Nethunter Rootles  && ./install-nethunter-termux 
-
- 4. ```./cleanup``` - This will set up, nethunter autorun after openning Termux, and removes, Termux motd file.
+ 3. ```./install``` - This will install Nethunter Rootles
+ 
+ 4. ```./cleanup``` - This will set up NetHunter to Autorun after openning Termux, and removes Termux motd file.
 
 If everything worked fine, Termux has now closed. After Restart you will be in your Kali Linux, Nethunter Terminal.
 
